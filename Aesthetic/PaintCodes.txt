@@ -1,1 +1,3 @@
-Location      PaintCode     Manufacturer
+Location      PaintCode     Manufacturer    Finish
+Guest Bath    Coconut Twist   Behr Ultra    Satin
+
